@@ -1,0 +1,27 @@
+{
+  "name": "news_24",
+  "version": "1.0.0",
+  "description": "Latest News From 24",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SafwanGanz/news_24.git"
+  },
+  "keywords": [
+    "news",
+    "malayalam"
+  ],
+  "author": "SafwanGanz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SafwanGanz/news_24/issues"
+  },
+  "homepage": "https://github.com/SafwanGanz/news_24#readme",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
